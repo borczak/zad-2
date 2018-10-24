@@ -1,0 +1,11 @@
+body{
+    color: rgba(128, 128, 128, 0.79);
+}
+body h1{
+    text-align: center;
+    margin: 5%;
+}
+.faq{
+    width: 90%;
+    
+}
